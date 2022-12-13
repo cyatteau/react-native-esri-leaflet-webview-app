@@ -4,6 +4,7 @@
 This app uses a WebView component to display a map using Esri Leaflet and the basemap layer service.
 
 ## Live Demo Clip
+![Esri_Leaflet_WebView](https://user-images.githubusercontent.com/112517097/207385176-ad7d1f89-a2e6-4c0c-8157-e26b75ab2361.gif)
 
 ## Requirements <a name="req"></a>
 
